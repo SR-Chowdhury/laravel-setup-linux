@@ -2,7 +2,18 @@
 
 # Laravel Setup on Linux [Ubuntu 20.04 lts]
 
-## Laravel Setup on Linux [Ubuntu 20.04 lts]
+## First we need to install XAMPP in Linux
+* Go to download folders
+
+        cd Downloads/
+        
+ * Type sudo chmod +x xampp-linux-.........-installer
+ 
+        sudo chmod +x xampp-linux-x64-8.0.3-0-installer
+        sudo ./xampp-linux-x64-8.0.3-0-installer
+*
+
+* Download XAMPP (https://www.apachefriends.org/index.html)
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
