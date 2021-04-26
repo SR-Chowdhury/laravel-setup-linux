@@ -2,7 +2,7 @@
 
 # Laravel Setup on Linux [Ubuntu 20.04 lts]
 
-## First we need to install XAMPP in Linux
+## First we need to install XAMPP on Linux
 * Download XAMPP (https://www.apachefriends.org/index.html)
 * Go to download folders
 
@@ -35,8 +35,8 @@
         sudo​ apt install php-bcmath
         
 ## Create Laravel Project
-*Now go to the directory where you want to create your project like `cd Documents/`
-*Go to laravel documentation (https://laravel.com/docs/8.x#installation-via-composer)
+* Now go to the directory where you want to create your project like `cd Documents/`
+* Go to laravel documentation (https://laravel.com/docs/8.x#installation-via-composer)
 
 * **Installation Via Composer**
 
