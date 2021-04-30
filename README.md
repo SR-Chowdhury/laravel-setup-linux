@@ -8,10 +8,10 @@
 
         cd Downloads/
         
- * Type sudo chmod +x xampp-linux-.........-installer
+ * Type sudo chmod +x xampp-linux-.........-installer.run
  
-        sudo chmod +x xampp-linux-x64-8.0.3-0-installer
-        sudo ./xampp-linux-x64-8.0.3-0-installer
+        sudo chmod +x xampp-linux-x64-8.0.3-0-installer.run
+        sudo ./xampp-linux-x64-8.0.3-0-installer.run
 ## Now Download Composer
 * First go to home directory [back from Downloads using `cd ..`]
 * Go to (https://getcomposer.org/download/)
